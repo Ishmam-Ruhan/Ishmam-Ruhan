@@ -4,7 +4,7 @@
 
 <p align="center" >
 	<a href="https://ishmam-ruhan.github.io/profile/"> 
-    	<img  src="https://github-readme-stats.vercel.app/api?username=Ishmam-Ruhan"/>
+    	<img  src="https://github-readme-stats.vercel.app/api?username=Ishmam-Ruhan&show_icons=true&count_private=true&theme=radical"/>
   	</a>
 </p>
 
