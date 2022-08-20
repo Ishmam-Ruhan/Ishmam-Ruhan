@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ishmam Ruhan</h1>
 <h3 align="center">A computer science graduate, an intermediate Java programmer, web backend development, and DevOps enthusiastic.</h3>
 
-<div class="d-flex justify-content-center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmam-ruhan&show_icons=true&locale=en&layout=compact" alt="ishmam-ruhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmam-ruhan&show_icons=true&locale=en" alt="ishmam-ruhan" /></p>
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishmam-ruhan&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-ruhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-ruhan&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-ruhan" /> </p>
 
 
 
