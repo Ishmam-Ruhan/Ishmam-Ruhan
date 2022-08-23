@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-ruhan&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-ruhan" /> </p>
 
-
+- 🏢 Working at **[Dhrubok Infotech Services Ltd.](https://dhrubokinfotech.com/)** as a **Junior Software Engineer**.
 
 - 🌱 I’m currently learning: **Spring Boot, AWS, Reactive Programming**
 
