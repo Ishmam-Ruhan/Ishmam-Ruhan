@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-ruhan&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-ruhan" /> </p>
 
-- 🏢 Working at **[Dhrubok Infotech Services Ltd.](https://dhrubokinfotech.com/)** as a **Junior Software Engineer**.
+- 🏢 Working at **[Exabyting](https://exabyting.com/)** as a **Software Engineer**.
 
 - 🌱 I’m currently learning: **Spring Boot, AWS, Reactive Programming**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Ishmam-Ruhan?tab=repositories](https://github.com/Ishmam-Ruhan?tab=repositories)
 
-- 📫 How to reach me: ishmam15-10769@diu.edu.bd
+- 📫 How to reach me: ishmamruhan@gmail.com
 
 - 📄 Know about my experiences: [https://ishmam-ruhan.github.io/profile/](https://ishmam-ruhan.github.io/profile/)
 
